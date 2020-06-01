@@ -3,6 +3,14 @@
 #include <sstream>
 #include <string>
 
+/**
+*After running the program, it is enough to write
+*name of the file into the command line. Output will
+*be the maximum sum.
+*Note : It is assumed that there is always a way to
+*lower lever from top to bottom in given data.
+*/
+
 using namespace std;
 
 class PyramidTriangle{
